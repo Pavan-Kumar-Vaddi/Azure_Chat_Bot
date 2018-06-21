@@ -1,0 +1,1 @@
+{"query":"party details","topScoringIntent":{"intent":"ContractDetails","score":0.9917054},"intents":[{"intent":"ContractDetails","score":0.9917054},{"intent":"None","score":0.0103309518}],"entities":[],"sentimentAnalysis":{"label":"neutral","score":0.5}}
