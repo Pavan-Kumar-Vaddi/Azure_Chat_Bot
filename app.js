@@ -11,7 +11,7 @@ var async = require("async");
 var azure = require('botbuilder-azure'); 
 var azureStore = require('azure-storage');
 
-// Initialize Global Variables hi
+// Initialize Global Variables 
 //Azure table storage connection details
 var tableName = 'ContractDetailsTable'; // Table Name in Azure Table Storage
 var storageName = 'myazurebotstoragetable';// storageName - Obtained from Azure Portal
